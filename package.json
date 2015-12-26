@@ -1,0 +1,26 @@
+{
+  "name": "emulator-index",
+  "version": "1.0.0",
+  "description": "Handles emulator index releated operations",
+  "main": "lib/workspace.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Smartface",
+    "Workspace",
+    "smfc"
+  ],
+  "author": "Alper Ozisik",
+  "license": "ISC",
+  "dependencies": {
+    "crc-32": "^0.3.0",
+    "node-uuid": "^1.4.7",
+    "walk": "^2.3.9",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.9"
+  }
+}
