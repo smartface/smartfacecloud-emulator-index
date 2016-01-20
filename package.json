@@ -1,13 +1,14 @@
 {
   "name": "emulator-index",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Handles emulator index releated operations",
   "main": "lib/workspace.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test-iOS": "test/test-createIndex.js iOS",
+    "test-Android": "test/test-createIndex.js Android"
   },
   "keywords": [
     "Smartface",
