@@ -1,4 +1,4 @@
 node_modules
 .c9
-test/workspace/*
-test/workspace.1/*
+test/*
+!test/test-createIndex.js
