@@ -1,0 +1,305 @@
+{
+	"files": {
+		"asset://abc/abc.ttf": {
+			"crc": 0,
+			"date": "2016-01-20T09:37:00.691Z"
+		},
+		"asset://database.sqlite": {
+			"crc": -1499908807,
+			"date": "2015-12-29T15:42:37.860Z"
+		},
+		"font://Arial_b.ttf": {
+			"crc": -1255975984,
+			"date": "2015-12-29T15:42:37.868Z"
+		},
+		"font://Arial_i.ttf": {
+			"crc": 346911346,
+			"date": "2015-12-29T15:42:37.872Z"
+		},
+		"font://Arial_n.ttf": {
+			"crc": 720182496,
+			"date": "2015-12-29T15:42:37.880Z"
+		},
+		"font://Times.New.Roman_b.ttf": {
+			"crc": -676432946,
+			"date": "2015-12-29T15:42:37.892Z"
+		},
+		"font://Times.New.Roman_i.ttf": {
+			"crc": -230108256,
+			"date": "2015-12-29T15:42:37.896Z"
+		},
+		"font://Times.New.Roman_n.ttf": {
+			"crc": 1375690199,
+			"date": "2015-12-29T15:42:37.904Z"
+		},
+		"font://Verdana_b.ttf": {
+			"crc": 573404636,
+			"date": "2015-12-29T15:42:37.904Z"
+		},
+		"font://Verdana_i.ttf": {
+			"crc": 1431499808,
+			"date": "2015-12-29T15:42:37.904Z"
+		},
+		"font://Verdana_n.ttf": {
+			"crc": 1477025527,
+			"date": "2015-12-29T15:42:37.908Z"
+		},
+		"image://ClearButton@2x.png?path=Assets%2FClearButton.imageset%2FPowerDownCancel%402x.png": {
+			"crc": 589447831,
+			"date": "2016-01-20T13:11:57.911Z"
+		},
+		"image://Default-568h@2x.png": {
+			"crc": 1897353068,
+			"date": "2015-12-30T08:16:45.582Z"
+		},
+		"image://Default-667h@2x.png": {
+			"crc": -1105030405,
+			"date": "2015-12-30T08:16:45.586Z"
+		},
+		"image://Default-736h@3x.png": {
+			"crc": -379609781,
+			"date": "2015-12-30T08:16:45.586Z"
+		},
+		"image://Default-Landscape-736h@3x.png": {
+			"crc": -1450835641,
+			"date": "2015-12-30T08:16:45.590Z"
+		},
+		"image://Default-Landscape@2x~ipad.png": {
+			"crc": 1071650494,
+			"date": "2015-12-30T08:16:45.590Z"
+		},
+		"image://Default-Landscape~ipad.png": {
+			"crc": -2010531058,
+			"date": "2015-12-30T08:16:45.590Z"
+		},
+		"image://Default-Portrait@2x~ipad.png": {
+			"crc": 990657815,
+			"date": "2015-12-30T08:16:45.594Z"
+		},
+		"image://Default-Portrait~ipad.png": {
+			"crc": -1059456761,
+			"date": "2015-12-30T08:16:45.594Z"
+		},
+		"image://Default.png": {
+			"crc": 2032512438,
+			"date": "2015-12-30T08:16:45.598Z"
+		},
+		"image://Default@2x.png": {
+			"crc": -1934091827,
+			"date": "2015-12-30T08:16:45.598Z"
+		},
+		"image://Delete@3x.png?path=Assets%2FDelete.imageset%2Ftrash_64-1.png": {
+			"crc": 1793032858,
+			"date": "2016-01-20T13:10:25.077Z"
+		},
+		"image://Icon-120.png": {
+			"crc": 2036489252,
+			"date": "2015-12-30T08:16:45.630Z"
+		},
+		"image://Icon-152.png": {
+			"crc": 240399712,
+			"date": "2015-12-30T08:16:45.630Z"
+		},
+		"image://Icon-16.png": {
+			"crc": 1474132224,
+			"date": "2015-12-30T08:16:45.610Z"
+		},
+		"image://Icon-24.png": {
+			"crc": -558340159,
+			"date": "2015-12-30T08:16:45.610Z"
+		},
+		"image://Icon-32.png": {
+			"crc": -871920532,
+			"date": "2015-12-30T08:16:45.614Z"
+		},
+		"image://Icon-40.png": {
+			"crc": 2108545019,
+			"date": "2015-12-30T08:16:45.614Z"
+		},
+		"image://Icon-40@2x.png": {
+			"crc": 1572028459,
+			"date": "2015-12-30T08:16:45.614Z"
+		},
+		"image://Icon-60.png": {
+			"crc": 110071081,
+			"date": "2015-12-30T08:16:45.618Z"
+		},
+		"image://Icon-60@2x.png": {
+			"crc": 110071081,
+			"date": "2015-12-30T08:16:45.618Z"
+		},
+		"image://Icon-60@3x.png": {
+			"crc": 1394827080,
+			"date": "2015-12-30T08:16:45.618Z"
+		},
+		"image://Icon-64.png": {
+			"crc": 1988594785,
+			"date": "2015-12-30T08:16:45.622Z"
+		},
+		"image://Icon-72.png": {
+			"crc": -1489100038,
+			"date": "2015-12-30T08:16:45.622Z"
+		},
+		"image://Icon-72@2x.png": {
+			"crc": 1651442646,
+			"date": "2015-12-30T08:16:45.626Z"
+		},
+		"image://Icon-76.png": {
+			"crc": 510701231,
+			"date": "2015-12-30T08:16:45.626Z"
+		},
+		"image://Icon-76@2x.png": {
+			"crc": 175533039,
+			"date": "2015-12-30T08:16:45.626Z"
+		},
+		"image://Icon-Small-40.png": {
+			"crc": 1434079995,
+			"date": "2015-12-30T08:16:45.634Z"
+		},
+		"image://Icon-Small-40@2x.png": {
+			"crc": 1572028459,
+			"date": "2015-12-30T08:16:45.634Z"
+		},
+		"image://Icon-Small-40@3x.png": {
+			"crc": 2036489252,
+			"date": "2015-12-30T08:16:45.634Z"
+		},
+		"image://Icon-Small-50.png": {
+			"crc": 1500331409,
+			"date": "2015-12-30T08:16:45.638Z"
+		},
+		"image://Icon-Small-50@2x.png": {
+			"crc": -2092762490,
+			"date": "2015-12-30T08:16:45.638Z"
+		},
+		"image://Icon-Small.png": {
+			"crc": -508196468,
+			"date": "2015-12-30T08:16:45.642Z"
+		},
+		"image://Icon-Small@2x.png": {
+			"crc": -123716090,
+			"date": "2015-12-30T08:16:45.642Z"
+		},
+		"image://Icon-Small@3x.png": {
+			"crc": -1936336878,
+			"date": "2015-12-30T08:16:45.642Z"
+		},
+		"image://Icon.png": {
+			"crc": 1000481223,
+			"date": "2015-12-30T08:16:45.646Z"
+		},
+		"image://Icon@2x.png": {
+			"crc": 869733239,
+			"date": "2015-12-30T08:16:45.646Z"
+		},
+		"image://buttondefault.png": {
+			"crc": -693850255,
+			"date": "2015-12-30T08:16:45.522Z"
+		},
+		"image://buttondefault@2x.png": {
+			"crc": -1171724467,
+			"date": "2015-12-30T08:16:45.574Z"
+		},
+		"image://buttondefault@3x.png": {
+			"crc": -780370192,
+			"date": "2015-12-30T08:16:45.574Z"
+		},
+		"image://buttonhighlighted.png": {
+			"crc": -999668526,
+			"date": "2015-12-30T08:16:45.574Z"
+		},
+		"image://buttonhighlighted@2x.png": {
+			"crc": -720043132,
+			"date": "2015-12-30T08:16:45.578Z"
+		},
+		"image://buttoninactive.png": {
+			"crc": 1462679202,
+			"date": "2015-12-30T08:16:45.578Z"
+		},
+		"image://buttoninactive@2x.png": {
+			"crc": 2056450439,
+			"date": "2015-12-30T08:16:45.578Z"
+		},
+		"image://buttoninactive@3x.png": {
+			"crc": -199810273,
+			"date": "2015-12-30T08:16:45.582Z"
+		},
+		"image://default_pagebg.png": {
+			"crc": 1545396361,
+			"date": "2015-12-30T08:16:45.598Z"
+		},
+		"image://default_pagebg@2x.png": {
+			"crc": 249126121,
+			"date": "2015-12-30T08:16:45.602Z"
+		},
+		"image://default_pagebg@3x.png": {
+			"crc": 201158384,
+			"date": "2015-12-30T08:16:45.602Z"
+		},
+		"image://defaultsplash.png": {
+			"crc": 2032512438,
+			"date": "2015-12-30T08:16:45.606Z"
+		},
+		"image://defaultsplash@2x.png": {
+			"crc": -1934091827,
+			"date": "2015-12-30T08:16:45.606Z"
+		},
+		"image://logo.png": {
+			"crc": 2047127768,
+			"date": "2015-12-30T08:16:45.650Z"
+		},
+		"image://logo@2x.png": {
+			"crc": -1158604891,
+			"date": "2015-12-30T08:16:45.650Z"
+		},
+		"image://logo@3x.png": {
+			"crc": -1445955935,
+			"date": "2015-12-30T08:16:45.650Z"
+		},
+		"image://smartface.png": {
+			"crc": 2102325627,
+			"date": "2015-12-30T08:16:45.654Z"
+		},
+		"image://smartface@2x.png": {
+			"crc": 2102325627,
+			"date": "2015-12-30T08:16:45.654Z"
+		},
+		"image://smartface@3x.png": {
+			"crc": 2102325627,
+			"date": "2015-12-30T08:16:45.658Z"
+		},
+		"image://smf_EditClear.png": {
+			"crc": 1321449528,
+			"date": "2015-12-30T08:16:45.658Z"
+		},
+		"image://smf_EditClear@2x.png": {
+			"crc": 2097615814,
+			"date": "2015-12-30T08:16:45.662Z"
+		},
+		"script://Global.Smartface.js": {
+			"crc": -1119521992,
+			"date": "2015-12-29T15:42:37.928Z"
+		},
+		"script://Language.Smartface.js": {
+			"crc": 1602418839,
+			"date": "2015-12-29T15:42:37.928Z"
+		},
+		"script://Page1.js": {
+			"crc": 1821167735,
+			"date": "2015-12-29T15:42:37.928Z"
+		},
+		"script://SplashPage.Smartface.js": {
+			"crc": -1607471659,
+			"date": "2015-12-29T15:42:37.928Z"
+		}
+	},
+	"info": {
+		"company": "Smartface User",
+		"description": "",
+		"name": "Smartface Demo",
+		"runtimeVersion": "1059",
+		"version": "1.0.0",
+		"webSite": "http://www.smartface.io"
+	},
+	"projectID": "https://someurl.com"
+}
