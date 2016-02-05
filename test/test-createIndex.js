@@ -1,6 +1,12 @@
+var argv = process.argv.slice(2);
+
+if(argv.length !== 1 || !(argv[0] === "iOS" || argv[0] === "Android")) {
+    console.log("Sample usage:\nnode test/test-createIndex.js Android\nnode test/test-createIndex.js iOS");
+    return;
+}
 var Workspace = require("../lib/workspace");
 var Device = require("../lib/device");
-var argv = process.argv.slice(2);
+
 var ws = new Workspace({
     path: "/home/ubuntu/workspace/test/workspace",
     projectID: "https://someurl.com"
@@ -30,7 +36,7 @@ var device = devices[argv[0]];
 ws.getIndex(device,
     function indexResult(index) {
         end = new Date();
-        console.log("Performance is: " + Number(end - start) + "ms.");
-        console.log(index);
+        //console.log("Performance is: " + Number(end - start) + "ms.");
+        console.log(JSON.stringify(index, null, "\t"));
         process.exit(0);
     });
