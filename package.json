@@ -1,6 +1,6 @@
 {
   "name": "smartfacecloud-emulator-index",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Handles emulator index releated operations",
   "main": "lib/workspace.js",
   "directories": {
@@ -20,8 +20,10 @@
   "dependencies": {
     "crc-32": "^0.3.0",
     "node-uuid": "^1.4.7",
+    "smartface-cli-common-utils": "^0.0.2",
     "walk": "^2.3.9",
     "xmldom": "^0.1.19",
     "xpath": "0.0.9"
-  }
+  },
+  "repository": "https://bitbucket.org/smartface-team/smartfacecloud-emulator-index"
 }

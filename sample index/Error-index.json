@@ -1,0 +1,20 @@
+{
+    "errors": {
+        "0": {
+            "details": {
+                "fullPath": "/home/ubuntu/workspace/test/workspace/images/Android/drawable/1buttondefault.png",
+                "name": "1buttondefault.png"
+            },
+            "type": "invalid file name"
+        }
+    },
+    "info": {
+        "company": "Smartface User",
+        "description": "",
+        "name": "Smartface Demo",
+        "runtimeVersion": "1059",
+        "version": "1.0.0",
+        "webSite": "http://www.smartface.io"
+    },
+    "projectID": "https://someurl.com"
+}

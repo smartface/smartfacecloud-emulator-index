@@ -2,3 +2,4 @@ node_modules
 .c9
 test/*
 !test/test-createIndex.js
+test/workspace/*
