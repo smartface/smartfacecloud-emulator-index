@@ -20,6 +20,7 @@
   "dependencies": {
     "crc-32": "^0.3.0",
     "node-uuid": "^1.4.7",
+    "project-json-combiner": "^1.0.1",
     "walk": "^2.3.9",
     "xmldom": "^0.1.19",
     "xpath": "0.0.9"
