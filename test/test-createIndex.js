@@ -1,6 +1,6 @@
 var argv = process.argv.slice(2);
 
-if(argv.length !== 1 || !(argv[0] === "iOS" || argv[0] === "Android")) {
+if (argv.length !== 1 || !(argv[0] === "iOS" || argv[0] === "Android")) {
     console.log("Sample usage:\nnode test/test-createIndex.js Android\nnode test/test-createIndex.js iOS");
     return;
 }
@@ -34,7 +34,9 @@ var devices = {
 
 var device = devices[argv[0]];
 ws.getIndex(device,
-    function indexResult(index) {
+    function indexResult(err, index) {
+        if (err)
+            return console.error(err);
         end = new Date();
         //console.log("Performance is: " + Number(end - start) + "ms.");
         console.log(JSON.stringify(index, null, "\t"));
